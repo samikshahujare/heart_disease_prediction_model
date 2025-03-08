@@ -14,6 +14,5 @@ This Streamlit web app predicts the risk of heart disease based on user inputs. 
 * Enter your details in the input fields.
 * Click the "Predict" button.
 * The model processes the inputs and provides a risk assessment result (e.g., "Low Risk: No Heart Disease Detected").
-* This tool is designed to provide quick health insights, but it does not replace professional medical advice.
 
 🔗 App : https://heartdiseasepredictionmodel-hqbeblvlyjwqb7ekrwnjjw.streamlit.app/
